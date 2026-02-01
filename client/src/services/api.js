@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000/api';
+const API_URL = import.meta.env.VITE_API_URL || 'https://server-65j2.onrender.com/api';
 
 const DEFAULT_LAT = 28.6139;
 const DEFAULT_LNG = 77.209;
